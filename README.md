@@ -22,6 +22,7 @@ Ce projet est une application de banque numérique qui permet aux utilisateurs d
 - Spring Boot
 - Bootstrap
 - Bootstrap Icons
+- JWT (JSON Web Token)
 
 ## Installation
 
@@ -66,7 +67,7 @@ ng serve
 
 - **Faire une opération (débit, crédit ou transfert) :**
 
--- Debit :
+-- Débit :
 
 ![img_3.png](assets/img_3.png)
 
@@ -76,11 +77,11 @@ ng serve
 
 ![img_16.png](assets/img_16.png)
 
--- Credit :
+-- Crédit :
 
 ![img_4.png](assets/img_4.png)
 
--- Transfer :
+-- Transfert :
 
 ![img_5.png](assets/img_5.png)
 
